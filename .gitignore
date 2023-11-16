@@ -1,5 +1,3 @@
-target/
-!target/site/reports/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -38,3 +36,5 @@ build/
 ### Mac OS ###
 .DS_Store
 .idea/
+target/
+!target/site/reports/

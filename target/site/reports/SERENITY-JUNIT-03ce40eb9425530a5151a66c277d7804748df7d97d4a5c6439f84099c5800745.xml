@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Update Booking" skipped="0" tests="4" time="0.95" timestamp="2023-11-16 12:20:40"><testcase name="Update a booking with valid details"/><testcase name="Attempt to update a booking with invalid ID"/></testsuite>

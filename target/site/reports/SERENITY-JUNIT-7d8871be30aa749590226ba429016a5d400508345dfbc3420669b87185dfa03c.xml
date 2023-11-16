@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Adding Numbers" skipped="0" tests="1" time="0.17" timestamp="2023-11-01 10:46:31"><testcase name="Adding two numbers"><failure message="&#10;expected: 3&#10; but was: 2" type="org.opentest4j.AssertionFailedError">
+expected: 3
+ but was: 2</failure><system-err>
+expected: 3
+ but was: 2
+org.example.steps.MathsStepDefinitions.theTotalShouldBe(MathsStepDefinitions.java:43)
+✽.the total should be 3(file:///Users/mariaangelica/AutomationProjects/MiproyectoUno/src/test/resources/features/math/adding_numbers.feature:7)
+</system-err></testcase></testsuite>

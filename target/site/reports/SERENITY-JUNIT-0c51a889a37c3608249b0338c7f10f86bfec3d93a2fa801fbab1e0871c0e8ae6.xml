@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Search Bookings by Fullname" skipped="0" tests="4" time="0.91" timestamp="2023-11-16 12:20:32"><testcase name="Search Bookings by Fullname"/><testcase name="Search Bookings by invalid Fullname"/></testsuite>

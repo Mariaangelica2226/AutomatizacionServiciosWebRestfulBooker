@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="1" name="Authentication API Testing" skipped="0" tests="2" time="2.41" timestamp="2023-11-16 12:20:10"><testcase name="Successful user authentication"/><testcase name="Failed Authentication"><failure message="1 expectation failed.&#10;Expected status code &lt;400&gt; but was &lt;200&gt;.&#10;" type="java.lang.AssertionError">1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;200&gt;.
+</failure><system-err>1 expectation failed.
+Expected status code &lt;400&gt; but was &lt;200&gt;.
+
+io.restassured.internal.ResponseSpecificationImpl.validateResponseIfRequired(ResponseSpecificationImpl.groovy:696)
+io.restassured.internal.ResponseSpecificationImpl.this$2$validateResponseIfRequired(ResponseSpecificationImpl.groovy)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:135)
+io.restassured.internal.ResponseSpecificationImpl.statusCode(ResponseSpecificationImpl.groovy:143)
+io.restassured.internal.ValidatableResponseOptionsImpl.statusCode(ValidatableResponseOptionsImpl.java:89)
+org.example.steps.GeneralStepDefinitions.verifyResponseStatusCode(GeneralStepDefinitions.java:40)
+✽.the response status code should be 400(file:///Users/mariaangelica/AutomationProjects/AutomatizacionServiciosWebRestfulBooker/src/test/resources/features/booking/authentication_api_testing.feature:17)
+</system-err></testcase></testsuite>
