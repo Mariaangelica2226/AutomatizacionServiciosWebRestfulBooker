@@ -4,7 +4,9 @@ This project aims to automate tests for the web services provided by RESTFUL-BOO
 functionalities to create, read, update, and delete bookings. The automation has been performed using Serenity and Rest
 Assured tools, integrating Cucumber and Gherkin as the testing language.
 
-## General Description
+## Report Example
+
+https://mariaangelica2226.github.io/
 
 ### Key Features
 
