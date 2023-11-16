@@ -29,15 +29,15 @@ serenity {
 
 ext {
     serenity_version = '4.0.15'
-    junit_platform_launcher_version="1.10.0"
-    cucumber_junit_platform_engine_version="7.14.0"
-    junit_platform_suite_version="1.10.0"
-    junit_jupiter_engine_version="5.9.3"
-    junit_vintage_engine_version="5.9.3"
-    logback_classic_version="1.2.10"
-    assertj_core_version="3.23.1"
-    rest_assured_version="5.3.2"
-    slf4j_version="2.0.2"
+    junit_platform_launcher_version = "1.10.0"
+    cucumber_junit_platform_engine_version = "7.14.0"
+    junit_platform_suite_version = "1.10.0"
+    junit_jupiter_engine_version = "5.9.3"
+    junit_vintage_engine_version = "5.9.3"
+    logback_classic_version = "1.2.10"
+    assertj_core_version = "3.23.1"
+    rest_assured_version = "5.3.2"
+    slf4j_version = "2.0.2"
 }
 
 dependencies {
