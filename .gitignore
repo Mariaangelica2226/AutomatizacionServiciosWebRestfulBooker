@@ -37,3 +37,4 @@ build/
 .DS_Store
 .idea/
 target/
+!target/site/reports/
