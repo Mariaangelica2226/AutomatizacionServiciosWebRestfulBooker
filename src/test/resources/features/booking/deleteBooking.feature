@@ -8,8 +8,8 @@ Feature: Booking API Tests
 
     Examples:
       | bookingId |
-      | 48        |
-      | 137       |
+      | 3623      |
+      | 3750      |
 
   @smoke @unhappy-path
   Scenario Outline: Attempt to delete a non-existent booking

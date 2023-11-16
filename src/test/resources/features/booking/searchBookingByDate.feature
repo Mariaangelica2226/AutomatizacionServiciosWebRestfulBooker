@@ -5,7 +5,7 @@ Feature: Search Bookings by Checkin and Checkout Dates
   Scenario Outline: Search bookings with valid checkin and checkout dates
     When a GET request is made to search bookings with the following criteria "<checkin>" and "<checkout>"
     Then the response status code should be 200
-    And  I validate the response with a JSON Schema "getBookingIds"
+    And  I validate the response with a JSON Schema "getBookingsIds"
     And the response should contain a list of booking IDs
 
     Examples:
