@@ -5,5 +5,6 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
-@CucumberOptions(features="src/test/resources/features/", glue="org.example", tags="@auth")
-public class AcceptanceTestSuite {}
+@CucumberOptions(features = "src/test/resources/features/", glue = "org.example", tags = "@smoke")
+public class AcceptanceTestSuite {
+}

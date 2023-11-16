@@ -5,27 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4090b4fa-2301-4009-aa41-c01e307efbd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/AuthenticationStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/BookingStepDefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/authentication_api_testing.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/failed_authentication_api_testing.feature.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/jsonschemas/getBookingsIds.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/CreateBookingStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/DeleteBookingStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/GeneralStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/GetAllBookingIdsStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/SearchBookingsByDateStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/SearchBookingsByInvalidFullnameStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/UpdateBookingStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/ValidBookingIdSearchStepDefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/createBooking.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/deleteBooking.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/getAllBookingIds.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/partialUpdateBooking.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/ping.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/searchBookingByDate.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/searchBookingByFullname.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/searchBookingbyID.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/booking/updateBooking.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/jsonschemas/authCreateToken.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/jsonschemas/bookingDetail.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/jsonschemas/createBooking.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/jsonschemas/searchByFullname.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/serenity.properties" beforeDir="false" afterPath="$PROJECT_DIR$/serenity.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/app/Calculator.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/acceptancetests/AcceptanceTestSuite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/acceptancetests/AcceptanceTestSuite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/steps/MathsStepDefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/steps/AuthenticationStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/AuthenticationStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/steps/BookingStepDefinitions.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/steps/TestStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/steps/TestStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/math/adding_numbers.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/booking/get_booking_ids.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/booking/authentication_api_testing.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/booking/authentication_api_testing.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/booking/get_booking_ids.feature" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,6 +134,9 @@
       </list>
     </option>
   </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -130,6 +150,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
   <component name="ProjectId" id="2XatRF4elDfXb3Vi5oMrn5lfdWV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -138,31 +161,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SeleniumPlugin.ClassNameSelectorCheckEnabled&quot;: &quot;true&quot;,
-    &quot;SeleniumPlugin.CssSelectorCheckEnabled&quot;: &quot;true&quot;,
-    &quot;SeleniumPlugin.IdSelectorCheckEnabled&quot;: &quot;true&quot;,
-    &quot;SeleniumPlugin.IsSelectorCheckEnabled&quot;: &quot;true&quot;,
-    &quot;SeleniumPlugin.PhantomJsPath&quot;: &quot;/Users/mariaangelica/AutomationProjects/MiproyectoUno/chromedriver&quot;,
-    &quot;SeleniumPlugin.TagNameSelectorCheckEnabled&quot;: &quot;true&quot;,
-    &quot;SeleniumPlugin.XpathSelectorCheckEnabled&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/mariaangelica/AutomationProjects/AutomatizacionServiciosWebRestfulBooker/src/test/resources/features/booking&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;08679efa16c69cef53eb3eb5dff61db2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SeleniumPlugin.ClassNameSelectorCheckEnabled": "true",
+    "SeleniumPlugin.CssSelectorCheckEnabled": "true",
+    "SeleniumPlugin.IdSelectorCheckEnabled": "true",
+    "SeleniumPlugin.IsSelectorCheckEnabled": "true",
+    "SeleniumPlugin.PhantomJsPath": "/Users/mariaangelica/AutomationProjects/MiproyectoUno/chromedriver",
+    "SeleniumPlugin.TagNameSelectorCheckEnabled": "true",
+    "SeleniumPlugin.XpathSelectorCheckEnabled": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/mariaangelica/AutomationProjects/AutomatizacionServiciosWebRestfulBooker/src/test/resources/jsonschemas",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "actions.on.save",
+    "spring.configuration.checksum": "08679efa16c69cef53eb3eb5dff61db2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources/jsonschemas" />
       <recent name="$PROJECT_DIR$/src/test/resources/features/booking" />
       <recent name="$PROJECT_DIR$/gradle/wrapper" />
       <recent name="$PROJECT_DIR$" />
@@ -299,7 +326,8 @@
       <workItem from="1699640046541" duration="2623000" />
       <workItem from="1699751104176" duration="5466000" />
       <workItem from="1699836376524" duration="5849000" />
-      <workItem from="1699845697220" duration="688000" />
+      <workItem from="1699845697220" duration="68767000" />
+      <workItem from="1700013819783" duration="35103000" />
     </task>
     <servers />
   </component>
@@ -322,6 +350,20 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.junit.runner.notification.StoppedByUserException" package="org.junit.runner.notification" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.UnknownHostException" package="java.net" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
