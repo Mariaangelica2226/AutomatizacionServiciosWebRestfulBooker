@@ -26,7 +26,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: serenity-reports
-          path: target/site/serenity
+          path: target/site/reports
 
       - name: Cleanup
         run: ./gradlew clean
