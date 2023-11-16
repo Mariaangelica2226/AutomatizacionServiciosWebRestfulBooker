@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4090b4fa-2301-4009-aa41-c01e307efbd3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/workflows/serenity_test.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,7 +139,7 @@
     "SeleniumPlugin.TagNameSelectorCheckEnabled": "true",
     "SeleniumPlugin.XpathSelectorCheckEnabled": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/mariaangelica/AutomationProjects/AutomatizacionServiciosWebRestfulBooker/src/test/resources/jsonschemas",
+    "last_opened_file_path": "/Users/mariaangelica/AutomationProjects/AutomatizacionServiciosWebRestfulBooker",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
@@ -152,10 +153,10 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/test/resources/jsonschemas" />
       <recent name="$PROJECT_DIR$/src/test/resources/features/booking" />
       <recent name="$PROJECT_DIR$/gradle/wrapper" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src/test/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -290,7 +291,7 @@
       <workItem from="1699751104176" duration="5466000" />
       <workItem from="1699836376524" duration="5849000" />
       <workItem from="1699845697220" duration="68767000" />
-      <workItem from="1700013819783" duration="38439000" />
+      <workItem from="1700013819783" duration="38729000" />
     </task>
     <servers />
   </component>
